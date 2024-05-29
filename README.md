@@ -1,6 +1,6 @@
-# The Future in Tech
+# Astrelya TV
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="https://www.astrelya.com/wp-content/uploads/2024/01/logo-astrelya-devops-it-engineering-esn-paris-geneve-lyon.png" width="250">
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 

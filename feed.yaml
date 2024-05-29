@@ -1,11 +1,12 @@
-title: The Future in Tech
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
-description: Conversations with leaders building next generation techology tools.
-image: /images/artwork.jpg
+title: Astrelya TV
+subtitle: Powered by Astrelya
+author: Xavier DE KEPPER & Lucie LANOISELEE
+description: Conversations with Astrelya Collaborators and Friends
+image: /images/logo.png
 language: en-us
 category: Technology
 format: audio/mpeg
+link: https://astrelya.github.io/podcast
 item:
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
