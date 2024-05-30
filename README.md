@@ -1,6 +1,6 @@
 # Astrelya TV
 
-<img src="https://www.astrelya.com/wp-content/uploads/2024/01/logo-astrelya-devops-it-engineering-esn-paris-geneve-lyon.png" width="250">
+<img src="/images/logo_plein.png" width="250">
 
 [Astrelya TV](https://www.astrelya.com) propose régulièrement des interviews de ses collaborateurs, présentées par [Lucie](https://www.linkedin.com/in/lucie-lanoiselee/).
 
